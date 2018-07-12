@@ -1,0 +1,14 @@
+
+console.log('Hola mundo');
+console.log('Hola mundo');
+console.log('Hola mundo');
+console.log('Hola mundo');
+console.log('Hola mundo');
+console.log('Hola mundo');
+console.log('Hola mundo');
+console.log('Hola mundo');
+
+function a + b;
+
+System.out.println("hola bebes sigame en Youtube");
+
